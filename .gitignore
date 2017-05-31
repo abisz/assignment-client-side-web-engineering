@@ -4,3 +4,6 @@
 # Node.js
 npm-debug.log
 
+.idea
+
+node_modules
